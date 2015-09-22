@@ -14,7 +14,7 @@ and open the template in the editor.
     <body id="fondo">
         <div class="web">
         <?php include 'inc/header_1.php'; ?>
-        <p id="vive_origen_movil">¡Te damos la bienvenida!Añado esto para ver cómo funciona</p>
+        <p id="vive_origen_movil">¡¡Te damos la bienvenida!!</p>
     </div>
    
     <!--//BLOQUE COOKIES-->
